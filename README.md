@@ -1,2 +1,2 @@
-# shortcuit-pages
-Shortcuit
+# shorcuit-pages
+Shorcuit
