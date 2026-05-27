@@ -1,2 +1,0 @@
-# shorcuit-pages
-Shorcuit
